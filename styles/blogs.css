@@ -1,1 +1,7 @@
-nav
+nav > ul > li >{
+    display: inline;
+    margin: 15px;
+}
+nav li > a{
+    text-decoration: none;
+}
