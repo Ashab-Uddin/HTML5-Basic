@@ -11,3 +11,9 @@ footer{
     margin-top: 30px;
     text-align: center ;
 }
+figure >img{
+    margin: 10px 10px 10px 100px;
+}
+figcaption{
+    margin: 10px 10px 10px 120px;
+}
